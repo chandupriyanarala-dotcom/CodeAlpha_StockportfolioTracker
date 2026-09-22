@@ -27,3 +27,19 @@ Stock Portfolio Tracker is a simple Python project that calculates the total inv
 
 ```bash
 python stock_portfolio.py
+## Sample Output
+
+Stock Portfolio Tracker
+======================
+
+Enter stock name (or 'done' to finish): AAPL
+Enter quantity: 2
+Investment: 360
+
+Enter stock name (or 'done' to finish): TSLA
+Enter quantity: 3
+Investment: 750
+
+Enter stock name (or 'done' to finish): done
+
+Total Investment: 1110
